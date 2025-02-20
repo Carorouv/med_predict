@@ -31,7 +31,7 @@ st.set_page_config(page_title="BioTechInsight", page_icon=":microscope:")
 # )
 
 # Logo centré en haut à gauche
-st.sidebar.image(Image.open('C:/Users/Caroline/Documents/WCS/Projet_3/Logo_BioTechInsights_détouré.png'), width=280, use_column_width=False)
+st.sidebar.image(Image.open('Logo_BioTechInsights_détouré.png'), width=280, use_column_width=False)
 
 # Maladies cardiaques 
 
